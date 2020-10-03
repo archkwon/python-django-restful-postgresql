@@ -1,0 +1,5 @@
+# ignore *.json files in the / directory
+*.pyc
+
+# ignore .idea/* files in the / directory
+.idea/*
